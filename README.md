@@ -1,130 +1,101 @@
-<!-- AMORIM DEV — README BRUTALISTA -->
-
 <div align="center">
 
-```
-█████╗ ███╗   ███╗ ██████╗ ██████╗ ██╗███╗   ███╗    ██████╗ ███████╗██╗   ██╗
-██╔══██╗████╗ ████║██╔═══██╗██╔══██╗██║████╗ ████║    ██╔══██╗██╔════╝██║   ██║
-███████║██╔████╔██║██║   ██║██████╔╝██║██╔████╔██║    ██║  ██║█████╗  ██║   ██║
-██╔══██║██║╚██╔╝██║██║   ██║██╔══██╗██║██║╚██╔╝██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝
-██║  ██║██║ ╚═╝ ██║╚██████╔╝██║  ██║██║██║ ╚═╝ ██║    ██████╔╝███████╗ ╚████╔╝ 
-╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝  
-```
+# AMORIM DEV
 
-**`CÓDIGO É MEIO. RESULTADO É FIM.`**
+**Desenvolvedor de Sistemas · Automação · Integrações · IA Aplicada**
+
+*Construindo soluções que reduzem custo, escalam operação e geram resultado real.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amorimdevmt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amorimdevmt/)
+![Location](https://img.shields.io/badge/Cuiabá-MT%20·%20BR-111111?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Disponível-22c55e?style=flat-square)
 
 </div>
 
 ---
 
+## Sobre
+
+Desenvolvedor focado em **entrega e impacto real**. Atuo como MEI construindo sistemas completos — do zero até produção — com ênfase em automação de processos, integrações entre plataformas e aplicação prática de IA.
+
+Comunicação direta. Sem enrolação. Resultado primeiro.
+
+---
+
+## Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## Automação & IA
+
+| Área | Tecnologias |
+|---|---|
+| **Agentes Inteligentes** | LLMs · Subagents · Rules · Plugins |
+| **Protocolos & Arquitetura** | MCP · SDD |
+| **Ferramentas** | Cursor + Claude |
+| **Integrações** | APIs REST · ERP Sankhya |
+
+---
+
+## O que entrego
+
 ```
-SISTEMA .............. DESENVOLVEDOR DE SISTEMAS
-LOCALIZAÇÃO .......... CUIABÁ — MT — BR
-ATUAÇÃO .............. MEI / EXECUÇÃO PROFISSIONAL
-FOCO ................. AUTOMAÇÃO · INTEGRAÇÃO · IA APLICADA
-STATUS ............... DISPONÍVEL PARA PROJETOS
+✔  Sistemas completos sob medida
+✔  Integrações entre plataformas
+✔  Automações que reduzem custo operacional
+✔  Dashboards e sistemas administrativos
+✔  Estruturação técnica de projetos
 ```
 
 ---
 
-## `> STACK`
+## Projetos
 
-```
-LINGUAGENS       JS · TS
-RUNTIME          Node.js
-FRONTEND         React · Next.js · Tailwind CSS
-BANCO DE DADOS   PostgreSQL · MongoDB
-INFRA            Docker · Git
-```
+**Sistema de Eventos**
+Plataforma completa com módulos de formulários, dashboard administrativo e aplicação mobile em evolução.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,postgres,mongodb,docker,git&theme=dark" />
-</p>
+**Integração ERP Sankhya**
+Automatização de fluxos de dados entre sistemas internos e o ERP, reduzindo intervenção manual.
+
+**Arquitetura com Agentes**
+Implementação de pipelines inteligentes usando MCP, SDD e agentes LLM aplicados a problemas reais de negócio.
 
 ---
 
-## `> AUTOMAÇÃO & IA`
+## GitHub Stats
 
-```
-[ ✓ ] Agentes inteligentes com LLMs
-[ ✓ ] MCP — Model Context Protocol
-[ ✓ ] SDD — Structured Driven Development
-[ ✓ ] Subagents, rules e plugins
-[ ✓ ] Automação com Cursor + Claude
-[ ✓ ] Integrações com APIs e ERPs (ex: Sankhya)
-```
+<div align="center">
 
----
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+<img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSER&theme=github-dark-blue&hide_border=true"/>
 
-## `> O QUE EU ENTREGO`
+</div>
 
-```
-001 ——— Sistemas completos sob medida
-002 ——— Integrações entre plataformas
-003 ——— Automações que reduzem custo operacional
-004 ——— Dashboards e sistemas administrativos
-005 ——— Estruturação técnica de projetos
-```
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSER&theme=github-compact&hide_border=true&area=true"/>
 
-## `> PROJETOS`
-
-```
-[A01] SISTEMA DE EVENTOS
-      ├── Módulos de formulários
-      ├── Dashboard administrativo
-      └── Aplicação mobile (em evolução)
-
-[A02] INTEGRAÇÃO ERP
-      └── Sankhya — fluxo de dados e automação
-
-[A03] ARQUITETURA INTELIGENTE
-      ├── MCP
-      ├── SDD
-      └── Agentes com LLMs
-```
-
----
-
-## `> DIFERENCIAIS`
-
-```
-#1   Foco em resolver problema de negócio — não em tecnologia por tecnologia
-#2   Comunicação direta — sem enrolação, sem reunião desnecessária
-#3   Pensamento estratégico + execução real
-#4   Do zero até produção — sem depender de terceiros pra rodar
-```
-
----
-
-## `> GITHUB STATS`
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=ff3c00&text_color=f0f0f0&icon_color=ff3c00"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSER&theme=tokyonight&hide_border=true&background=0a0a0a&ring=ff3c00&fire=ff3c00&currStreakLabel=f0f0f0"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSER&theme=tokyo-night&bg_color=0a0a0a&color=f0f0f0&line=ff3c00&point=ff3c00&hide_border=true"/>
-</p>
-
----
-
-## `> CONEXÕES`
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amorimdevmt/">
-    <img src="https://img.shields.io/badge/LINKEDIN-AMORIMDEV-ff3c00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/>
-  </a>
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-```
-© 2025 AMORIM DEV ——— CUIABÁ, MT ——— BRASIL
-```
+*Código é meio. Resultado é fim.*
 
 </div>
