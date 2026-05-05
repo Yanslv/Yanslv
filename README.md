@@ -1,17 +1,14 @@
 <div align="center">
 
-# AMORIM DEV
+# Yan amorim
 
 **Desenvolvedor de Sistemas · Automação · Integrações · IA Aplicada**
-
-*Construindo soluções que reduzem custo, escalam operação e geram resultado real.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amorimdevmt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amorimdevmt/)
 [![Gmail](https://img.shields.io/badge/Email-yan.amorim.tech-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yan.amorim.tech@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yanslv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yanslv)
 ![Location](https://img.shields.io/badge/Cuiabá-MT%20·%20BR-111111?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experiência-4%20anos-6366f1?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Disponível-22c55e?style=flat-square)
 
 </div>
 
